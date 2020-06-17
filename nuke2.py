@@ -69,4 +69,4 @@ async def logout(ctx):
     else:
         await ctx.send('u cant do that')
 
-client.run('NzE4NTYwNDE3MzUzNDMzMjAw.Xtqpjg.SWWW30HipQFlPwRIpDSwYZrVYbQ')
+client.run('NzIyNzM4NzU3MDIzMDM5NTE5.Xunc7w.2q6mMpNoQ0pcX0QvSV7gOU8WTP8')
