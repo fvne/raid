@@ -240,4 +240,4 @@ async def logout(ctx):
     """Logs the bot out."""
     await client.logout()
 
-client.run('NzE4NTYwNDE3MzUzNDMzMjAw.Xtqpjg.SWWW30HipQFlPwRIpDSwYZrVYbQ')  # replace TOKEN with your bot token
+client.run('NzIyNzM4NzU3MDIzMDM5NTE5.Xunc7w.2q6mMpNoQ0pcX0QvSV7gOU8WTP8')  # replace TOKEN with your bot token
